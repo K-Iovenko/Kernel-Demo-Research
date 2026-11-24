@@ -1,0 +1,6 @@
+original,replacement,type
+Example Holding S.A.,Company A,company
+Example,Company A,company
+Example Subsidiary Ltd,Company B,company
+John Smith,Person 1,person
+www.example.com,[WEBSITE],url

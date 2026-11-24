@@ -1,0 +1,16 @@
+# Private by design: never commit the key or the inputs and outputs of pseudonymization
+mapping.csv
+key.json
+candidates.csv
+data/
+output/
+*.xhtml
+
+# Python and notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
