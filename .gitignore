@@ -2,6 +2,7 @@
 mapping.csv
 key.json
 candidates.csv
+/mapping_template.csv
 data/
 output/
 *.xhtml
